@@ -17,7 +17,7 @@ from spinspy import local_data
 ## ------
 def get_params():
 
-    param_data = Params()
+    param_data = Grid()
    
     if os.path.realpath(local_data.path) == local_data.conf_path:
         # We've already loaded it, so just return the stored variable
