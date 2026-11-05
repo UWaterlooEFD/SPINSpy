@@ -130,3 +130,6 @@ top_level.txt
 #caches
 .DS_*
 /tests/
+
+#large files
+*grid
