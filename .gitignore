@@ -117,8 +117,9 @@ sympy-plots-for-*.tex/
 # todonotes
 *.tdo
 
-# xindy
+# random shit
 *.xdy
+tmp*
 
 #setuptools stuff
 setup.py
